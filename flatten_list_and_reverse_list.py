@@ -21,7 +21,7 @@ print(output_1)
 
 # Second Question
 # Write a function that reverses the elements in the given list. If the elements inside the list also contain the list, reverse their elements as well.
-# For example;
+# For example:
 # input: [[1, 2], [3, 4], [5, 6, 7]]
 # output: [[[7, 6, 5], [4, 3], [2, 1]]
 
